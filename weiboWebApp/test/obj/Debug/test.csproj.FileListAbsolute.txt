@@ -1,0 +1,4 @@
+E:\Videos\item\web\weiboWebApp\test\bin\test.dll
+E:\Videos\item\web\weiboWebApp\test\bin\test.pdb
+E:\Videos\item\web\weiboWebApp\test\obj\Debug\test.dll
+E:\Videos\item\web\weiboWebApp\test\obj\Debug\test.pdb

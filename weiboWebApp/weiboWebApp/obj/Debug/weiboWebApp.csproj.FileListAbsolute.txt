@@ -1,0 +1,8 @@
+E:\Videos\item\web\weiboWebApp\weiboWebApp\bin\weiboWebApp.dll
+E:\Videos\item\web\weiboWebApp\weiboWebApp\bin\weiboWebApp.pdb
+E:\Videos\item\web\weiboWebApp\weiboWebApp\bin\NetDimension.Weibo.dll
+E:\Videos\item\web\weiboWebApp\weiboWebApp\bin\NetDimension.Weibo.pdb
+E:\Videos\item\web\weiboWebApp\weiboWebApp\bin\NetDimension.Weibo.xml
+E:\Videos\item\web\weiboWebApp\weiboWebApp\obj\Debug\weiboWebApp.dll
+E:\Videos\item\web\weiboWebApp\weiboWebApp\obj\Debug\weiboWebApp.pdb
+E:\Videos\item\web\weiboWebApp\weiboWebApp\obj\Debug\weiboWebApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "weiboWebApp", "weiboWebApp\weiboWebApp.csproj", "{B8E5A890-619C-4BA6-8C5E-7945B062B380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{3EA91D1B-8A4F-407D-89B8-431894FA8A18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E5A890-619C-4BA6-8C5E-7945B062B380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E5A890-619C-4BA6-8C5E-7945B062B380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E5A890-619C-4BA6-8C5E-7945B062B380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E5A890-619C-4BA6-8C5E-7945B062B380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA91D1B-8A4F-407D-89B8-431894FA8A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA91D1B-8A4F-407D-89B8-431894FA8A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA91D1B-8A4F-407D-89B8-431894FA8A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA91D1B-8A4F-407D-89B8-431894FA8A18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

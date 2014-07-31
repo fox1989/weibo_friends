@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\FOX\Desktop\sinaweb" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="06/18/2013 19:28:50" />
+    <file relUrl="bin/NetDimension.Weibo.pdb" publishTime="05/18/2013 20:31:49" />
+    <file relUrl="Scripts/d3.v3.js" publishTime="05/20/2013 13:37:46" />
+    <file relUrl="lib/NetDimension.Weibo.dll" publishTime="05/18/2013 20:31:49" />
+    <file relUrl="bin/weiboWebApp.pdb" publishTime="06/18/2013 19:25:41" />
+    <file relUrl="lib/NetDimension.Weibo.pdb" publishTime="05/18/2013 20:31:49" />
+    <file relUrl="dispose.aspx" publishTime="06/14/2013 20:52:16" />
+    <file relUrl="test/test2.aspx" publishTime="06/14/2013 20:05:03" />
+    <file relUrl="bin/NetDimension.Weibo.xml" publishTime="05/18/2013 20:31:49" />
+    <file relUrl="Styles/Site.css" publishTime="05/18/2013 20:29:59" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="05/18/2013 20:29:59" />
+    <file relUrl="Scripts/d3.v3.min.js" publishTime="05/20/2013 13:37:48" />
+    <file relUrl="test/test1.aspx" publishTime="06/14/2013 20:21:03" />
+    <file relUrl="lib/NetDimension.Weibo.xml" publishTime="05/18/2013 20:31:49" />
+    <file relUrl="bin/weiboWebApp.dll" publishTime="06/18/2013 19:25:41" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="05/18/2013 20:29:59" />
+    <file relUrl="bin/NetDimension.Weibo.dll" publishTime="05/18/2013 20:31:49" />
+    <file relUrl="Scripts/jquery-1.8.3.min.js" publishTime="12/30/2012 16:17:12" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="05/18/2013 20:29:59" />
+    <file relUrl="index.aspx" publishTime="06/18/2013 19:26:23" />
+  </publishProfile>
+</publishData>
